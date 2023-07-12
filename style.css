@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.container-fluid{
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    position: fixed;
+}
+
+#logo{
+    margin-left: 10vh;
+    margin-bottom: 5vh;
+}
+
+#username{
+    margin-bottom: 2vh;
+    border-radius: 15px;
+    width: 24%;
+    height: 5vh;
+    padding-left: 10px;
+}
+
+#password{
+    margin-bottom: 2vh;
+    border-radius: 15px;
+    width: 24%;
+    height: 5vh;
+    padding-left: 10px;
+}
+
+#btn{
+    border-radius: 15px;
+    width: 24%;
+    height: 5vh;
+}
+
+#pass{
+    margin-left: 8vh;
+    text-transform: uppercase;
+}
+
+#create{
+    margin-top: 2vh;
+    text-transform: uppercase;
+    color: white;
+}
+
+#sign{
+    margin-left: 15vh;
+    color: white;
+}
+
+.icon{
+    border-radius: 15px;
+    height: 5vh;
+    width:12%;
+}
